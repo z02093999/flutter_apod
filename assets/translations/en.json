@@ -1,0 +1,32 @@
+{
+    "appTitle":"Astronomy Picture of the Day",
+    "copyright":"Image Credit & Copyright",
+    "showVideo":"Open the video website",
+    "menu":{
+        "today":"Today",
+        "favorite":"Favorite",
+        "calendar":"Calendar",
+        "setting":"Setting"
+    },
+    "calendarPage":{
+        "downloadMonth":"Download Month Data",
+        "close":"Close",
+        "error":"Error",
+        "downloadMsg":"Download message",
+        "startDownload":"Start download",
+        "downloading":"Downloading",
+        "finishTitle":"Finish",
+        "finishMsg":"Download completed",
+        "timeError":"Time error",
+        "timeErrorMsg":"Time includes future time."
+    },
+    "settingPage":{
+        "setting":"Settings",
+        "enterApiKey":"Please enter ApiKey",
+        "apiKeyApply":"Apply ApiKey(https://api.nasa.gov/)",
+        "apiKeyApplyMsg":"You must first apply and set it as a private ApiKey. If you do not want to apply, you can also use DEMO_KEY directly, but the number of uses will be strictly limited. For details, please refer to https://api.nasa.gov/.",
+        "imageSavePath":"Image storage location",
+        "confirm":"Confirm"
+    }
+    
+}

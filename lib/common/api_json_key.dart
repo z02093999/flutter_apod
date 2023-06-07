@@ -1,0 +1,9 @@
+const String title = 'title';
+const String date = 'date';
+const String explanation = 'explanation';
+const String copyright = 'copyright';
+const String hdurl = 'hdurl';
+const String mediaType = 'media_type';
+const String serviceVersion = 'service_version';
+const String url = 'url';
+const String thumbnailUrl = 'thumbnail_url';

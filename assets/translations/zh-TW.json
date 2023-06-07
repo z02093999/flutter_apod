@@ -1,0 +1,34 @@
+
+{
+    "appTitle":"每日天文圖片",
+    "copyright":"圖像版權和著作權",
+    "showVideo":"打開影片網站",
+    "error":"錯誤",
+    "menu":{
+        "today":"今日",
+        "favorite":"最愛",
+        "calendar":"日曆",
+        "setting":"設定"
+    },
+    "calendarPage":{
+        "downloadMonth":"下載全月資料",
+        "close":"關閉",
+        "downloadMsg":"下載訊息",
+        "startDownload":"開始下載",
+        "downloading":"下載中",
+        "finishTitle":"完成",
+        "finishMsg":"下載完成",
+        "timeError":"時間錯誤",
+        "timeErrorMsg":"時間包含未來時間"
+    },
+
+    "settingPage":{
+        "setting":"設定",
+        "enterApiKey":"請輸入ApiKey",
+        "apiKeyApply":"ApiKey申請(https://api.nasa.gov/)",
+        "apiKeyApplyMsg":"需先申請且設定為私人ApiKey。如不想申請也可直接使用DEMO_KEY，但是使用次數將受嚴格限制。詳情可參考https://api.nasa.gov/。",
+        "imageSavePath":"圖片儲存位置",
+        "confirm":"確定"
+    }
+    
+}
